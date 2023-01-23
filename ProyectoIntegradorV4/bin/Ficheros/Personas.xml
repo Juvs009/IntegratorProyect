@@ -1,0 +1,98 @@
+<Personas>
+  <Persona id="1">
+    <nombre>Javier</nombre>
+    <apellido>Portela</apellido>
+    <nota>9.0</nota>
+    <curso>DAM</curso>
+  </Persona>
+  <Persona id="2">
+    <nombre>Javier</nombre>
+    <apellido>Portela</apellido>
+    <nota>8.2</nota>
+    <curso>dam</curso>
+  </Persona>
+  <Persona id="3">
+    <nombre>Nicholas</nombre>
+    <apellido>Apellido</apellido>
+    <nota>9.3</nota>
+    <curso>DAW</curso>
+  </Persona>
+  <Persona id="4">
+    <nombre>pepe</nombre>
+    <apellido>carlos</apellido>
+    <nota>2.0</nota>
+    <curso>dam</curso>
+  </Persona>
+  <Persona id="6">
+    <nombre>Pepe</nombre>
+    <apellido>Pepa</apellido>
+    <nota>7.0</nota>
+    <curso>DAW</curso>
+  </Persona>
+  <Persona id="7">
+    <nombre>Pepa</nombre>
+    <apellido>Loreta</apellido>
+    <nota>6.0</nota>
+    <curso>DAW</curso>
+  </Persona>
+  <Persona id="8">
+    <nombre>Jose</nombre>
+    <apellido>Martinez</apellido>
+    <nota>7.0</nota>
+    <curso>DAW</curso>
+  </Persona>
+  <Persona id="9">
+    <nombre>Pepe</nombre>
+    <apellido>Popo</apellido>
+    <nota>4.0</nota>
+    <curso>DAW</curso>
+  </Persona>
+  <Persona id="10">
+    <nombre>pepe</nombre>
+    <apellido>pepa</apellido>
+    <nota>6.0</nota>
+    <curso>DAM</curso>
+  </Persona>
+  <Persona id="11">
+    <nombre>dd</nombre>
+    <apellido>dd</apellido>
+    <nota>2.0</nota>
+    <curso>dd</curso>
+  </Persona>
+  <Persona id="12">
+    <nombre>Javier</nombre>
+    <apellido>Portela</apellido>
+    <nota>10.0</nota>
+    <curso>DAM</curso>
+  </Persona>
+  <Persona id="13">
+    <nombre>Javier</nombre>
+    <apellido>Portela</apellido>
+    <nota>10.0</nota>
+    <curso>DAM</curso>
+  </Persona>
+  <Persona id="14">
+    <nombre>Javier</nombre>
+    <apellido>Portela</apellido>
+    <nota>10.0</nota>
+    <curso>DAM</curso>
+  </Persona>
+  <Persona id="15">
+    <nombre>Pepito</nombre>
+    <apellido>Garcia</apellido>
+    <nota>4.0</nota>
+    <curso>DAM</curso>
+  </Persona>
+  <Persona id="16">
+    <nombre>Pepe</nombre>
+    <apellido>Garcia</apellido>
+    <nota>5.0</nota>
+    <curso>DAM</curso>
+  </Persona>
+  <Persona id="20">
+    <nombre>JJ</nombre>
+    <apellido>PP</apellido>
+    <nota>3.0</nota>
+    <curso>DAW</curso>
+  </Persona>
+</Personas>

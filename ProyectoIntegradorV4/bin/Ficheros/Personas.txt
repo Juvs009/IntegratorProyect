@@ -1,0 +1,17 @@
+1*Javier*Portela*9.0*DAM
+2*Javier*Portela*8.2*dam
+3*Nicholas*Apellido*9.3*DAW
+4*pepe*carlos*2.0*dam
+6*Pepe*Pepa*7.0*DAW
+7*Pepa*Loreta*6.0*DAW
+8*Jose*Martinez*7.0*DAW
+9*Pepe*Popo*4.0*DAW
+10*pepe*pepa*6.0*DAM
+11*dd*dd*2.0*dd
+12*Javier*Portela*10.0*DAM
+13*Javier*Portela*10.0*DAM
+14*Javier*Portela*10.0*DAM
+15*Pepa*Pepe*4.0*daw
+16*dd*dd*2.0*daw
+17*pp*pp*6.0*daw
+20*JJ*PP*5.0*DAM

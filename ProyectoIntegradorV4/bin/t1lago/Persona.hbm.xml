@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+	<class name="t1lago.Persona" table="alumnos">
+		<id name="id" type="int">
+			<column name="ID" />
+		</id>
+
+		<property name="nombre" type="string">
+			<column name="Nombre" length="30" not-null="false" />
+		</property>
+		<property name="apellido" type="string">
+			<column name="Apellido" not-null="false" />
+		</property>
+		<property name="nota" type="double">
+			<column name="Nota" not-null="false" />
+		</property>
+		<property name="grado" type="string">
+			<column name="Curso" not-null="false" />
+		</property>
+			
+						
+	</class>
+
+</hibernate-mapping>
